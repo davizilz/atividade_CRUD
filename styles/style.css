@@ -1,0 +1,31 @@
+/* estilo da barra de navegação */
+nav{
+
+
+/* alinha o conteúdo horizontalmente*/
+    display: flex;
+
+/* define a cor de fundo da barra de navegação */
+    background-color: rgb(31, 31, 189);
+
+    /*cor do texto da barra de navegação */
+    color: azure;
+
+/* centraliza o conteúdo da barra de navegação */
+    justify-content: center;
+
+    /* alinha os itens verticalmente no centro */
+    align-items: center;
+}
+ /* estilos do corpo da página */
+body{
+    
+  /* remove a margem padrão */
+    margin: 0;
+
+    /* espaço interno do elemento */
+    padding: 0;
+
+    /* define a fonte padrão para o corpo da página */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
