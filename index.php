@@ -64,7 +64,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <!-- isso é o formulário de login, onde o usuário pode inserir seu nome de usuário e senha para acessar a página de home do site. -->
     <form method="POST">
 
-    <!-- serve para o usuário inserir suas credenciais nesse caso usuario e senha -->
+    <!-- serve para o usuário inserir as suas credenciais nesse caso usuario e senha -->
         <label>Usuario</label>
         <input type="text" name="usuario"> <br>
         <label>Senha</label>
